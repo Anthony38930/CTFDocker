@@ -1,6 +1,6 @@
 # CTFDocker
 
-The script will automatically install Docker to the host system, create a vulnerable network in which users can join to participate in either challenges.
+The script will automatically install Docker to the host system, create a vulnerable network and initialise a number of web challenges in which users can join to participate.
 
 The scoreboard will require setting up, a later addition might be to incorporate all the challenges available into the scoreboard so that this doesn't need to be entered at the start of each fresh event.
 
